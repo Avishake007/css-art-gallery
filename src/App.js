@@ -35,7 +35,7 @@ let componentArr = [
   <HarshitFacebook />,
   <AntraCaptainShield />,
   <FalguniYouTube />,
-  <HarshitInstagram />
+  <HarshitInstagram />,
   <AvishakeAudiLogo/>
 ];
 
